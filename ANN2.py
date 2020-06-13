@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Apr 11 12:33:45 2020
+
+@author: KUSHAL H
+"""
 # Artificial Neural Network
 
 # Installing Theano
